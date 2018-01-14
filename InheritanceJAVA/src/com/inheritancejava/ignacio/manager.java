@@ -7,5 +7,5 @@ public class manager extends employee {
        super(firstName, lastName, companyTitle, yearsAtCompany, SSN);
         this.SSN = SSN;
 
-    }
+    }    
 }

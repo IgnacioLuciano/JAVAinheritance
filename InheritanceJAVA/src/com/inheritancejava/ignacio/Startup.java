@@ -14,5 +14,7 @@ public class Startup {
 		designer designer = new designer("Lucas","Bonetto","PT Design",7,-1);
 		designer.printDetails();
 	}	
+
+
 	}
 
